@@ -76,7 +76,7 @@ https://catalog.data.gov/dataset/electric-vehicle-population-data
 ![image](https://github.com/user-attachments/assets/84c50081-692a-499e-8ea7-9307d17f32ee)
 
 ### The top 10 EV makes are visualized based on geographic coordinates (longitude and latitude), with each make represented by a unique color. This scatter plot highlights how different EV brands are distributed across regions.
-### An interactive version of this map, created using Folium and OpenStreetMap, is also available in the Python Notebook for a more detailed view of EV distribution in Washington State.
+
 
 # Decision Tree
 ## 1. Plot Tree 
@@ -119,7 +119,6 @@ https://catalog.data.gov/dataset/electric-vehicle-population-data
 5. Seaborn documentation: https://seaborn.pydata.org/
 6. Sklearn documentation: https://scikit-learn.org/stable/
 7. Matplotlib documentation: https://matplotlib.org/
-8. Folium: https://python-visualization.github.io/folium/latest/
 
 
 
