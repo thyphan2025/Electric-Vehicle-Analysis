@@ -18,7 +18,7 @@ https://catalog.data.gov/dataset/electric-vehicle-population-data
 
 # Project Files
 1. Electric-Vehicle-Analysis.rmd - Project Description and Summary of Findings
-2. Electric Vehicle Analysis_Thy Phan.ipynb - Python Notebook
+2. EV Analysis _Thy Phan.ipynb - Python Notebook
 3. Electric_Vehicle_Population_Data.csv - CSV file for Analysis
 
 # Summary of Findings
