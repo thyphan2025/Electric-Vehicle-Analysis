@@ -75,7 +75,7 @@ https://catalog.data.gov/dataset/electric-vehicle-population-data
 
 ![image](https://github.com/user-attachments/assets/84c50081-692a-499e-8ea7-9307d17f32ee)
 
-### The top 10 EV makes are visualized based on geographic coordinates (longitude and latitude), with each make represented by a unique color. This scatter plot highlights how different EV brands are distributed across regions.
+### The top 10 EV makes are visualized based on geographic coordinates (longitude and latitude), with each make represented by a unique color. This scatter plot highlights how different EV brands are distributed across Washington State.
 
 
 # Decision Tree
