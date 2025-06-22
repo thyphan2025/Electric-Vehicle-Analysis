@@ -16,8 +16,11 @@ https://catalog.data.gov/dataset/electric-vehicle-population-data
 9. Train the new Decision Tree Model
 10. Evaluate Model Performance using Classification Report and Confusion Matrix
 
+# Tools Used
+Python (pandas, matplotlib, seaborn, scikit-learn, imbalanced-learn)
+
 # Project Files
-1. Electric-Vehicle-Analysis.rmd - Project Description and Summary of Findings
+1. README.md - Project Description and Summary of Findings
 2. EV Analysis _Thy Phan.ipynb - Python Notebook
 
 # Summary of Findings
