@@ -117,13 +117,13 @@ Python (pandas, matplotlib, seaborn, scikit-learn, imbalanced-learn)
 #
 # Project Wrap Up
 ## Websites Explored During My Electric Vehicle Analysis Project
-1. Mastering Exploratory Data Analysis: https://medium.com/@nomannayeem/mastering-exploratory-data-analysis-eda-a-comprehensive-python-pandas-guide-for-data-insights-c0be7c5b8889
-2. Master Visualization in EDA: https://pujitha-vasanth.medium.com/mastering-visualizations-in-eda-univariate-bivariate-and-multivariate-analyses-1ca72906205b
-3. Confusion Matrix Visualization: https://medium.com/@dtuk81/confusion-matrix-visualization-fc31e3f30fea
-4. Class Imbalance Strategies: https://medium.com/data-science/class-imbalance-strategies-a-visual-guide-with-code-8bc8fae71e1a
-5. Seaborn documentation: https://seaborn.pydata.org/
-6. Sklearn documentation: https://scikit-learn.org/stable/
-7. Matplotlib documentation: https://matplotlib.org/
+1. [Mastering Exploratory Data Analysis](https://medium.com/@nomannayeem/mastering-exploratory-data-analysis-eda-a-comprehensive-python-pandas-guide-for-data-insights-c0be7c5b8889)
+2. [Master Visualization in EDA](https://pujitha-vasanth.medium.com/mastering-visualizations-in-eda-univariate-bivariate-and-multivariate-analyses-1ca72906205b)
+3. [Confusion Matrix Visualization](https://medium.com/@dtuk81/confusion-matrix-visualization-fc31e3f30fea)
+4. [Class Imbalance Strategies](https://medium.com/data-science/class-imbalance-strategies-a-visual-guide-with-code-8bc8fae71e1a)
+5. [Seaborn documentation](https://seaborn.pydata.org/)
+6. [Sklearn documentation](https://scikit-learn.org/stable/)
+7. [Matplotlib documentation](https://matplotlib.org/)
 
 
 
